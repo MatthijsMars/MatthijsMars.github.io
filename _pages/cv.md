@@ -11,22 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Physics,   Leiden University, 2018
+* BSc. in Astronomy, Leiden University, 2018
+* Msc. in Astronomy and Data Science, Leiden University, 2020
+* Ph.D. in Data Intensive Science, University College London, in progress (started 2020)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Master Thesis (2019/2020)
+  * ESTEC/ESA 
+  * Title: Characterising the diffuse galactic light in the ESA Euclid survey
+  * Supervisor: Dr. Sandor Kruk (ESTEC), Prof. Henk Hoekstra (Leiden University)
+* Master Research Project (2018/2019)
+  * Leiden University
+  * Title: Photometric pre-selection for WAVES-wide
+  * Supervisor: Dr. Maciej Bilicki, Prof. Koen Kuiken
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Bachelor Thesis (2018)
+  * Leiden University
+  * Title: Finding Exoplanets in Coronagraphic (vAPP) Data
+  * Supervisor: Alex Bohn Msc., Dr. Jos de Boer, Dr. Frans Snik
   
+<!--   
 Skills
 ======
 * Skill 1
@@ -56,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
